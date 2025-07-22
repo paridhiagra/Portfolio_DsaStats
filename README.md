@@ -27,7 +27,7 @@ A brief self-introduction explaining who I am, what I do as a front-end develope
 
 __🛠 Skills__
 
-💻Technologies featured:
+Technologies featured:
 1. HTML, CSS, JavaScript
 2. React, Node.js, Express
 3. C, C++, Python, TensorFlow
