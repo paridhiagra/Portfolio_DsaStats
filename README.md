@@ -18,12 +18,15 @@ Built with HTML5 and CSS3, this project is clean, minimal, and fully customizabl
 ## __📁 Sections Breakdown__
 
 __🏠 Home__
+
 Just your name – short and impactful.
 
 __🙋‍♀️ About__
+
 A brief self-introduction explaining who I am, what I do as a front-end developer, and how I bring designs to life using HTML, CSS, and JavaScript.
 
 __🛠 Skills__
+
 💻Technologies featured:
 1. HTML, CSS, JavaScript
 2. React, Node.js, Express
@@ -31,9 +34,11 @@ __🛠 Skills__
 4. GitHub, Stack Overflow, and more
 
 __🖼 Gallery__
+
 A flower photography section to showcase some visual creativity and add a personal touch.
 
 __🔗 Social Links__
+
 Includes icons for YouTube, LinkedIn, GitHub, Twitter (X), and Instagram.
 
 ## __🛠 Tech Stack__
