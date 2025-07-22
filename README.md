@@ -2,10 +2,10 @@
 
 This is a personal portfolio website created as part of my DsaStats internship. It showcases my front-end development skills, design aesthetics, and passion for creating responsive, user-friendly web interfaces.
 
-##__✨ Live Preview__
+## __✨ Live Preview__
 👉 https://portfolio-dsa-stats.vercel.app/
 
-##__🧑‍💻 About This Project__
+## __🧑‍💻 About This Project__
 __DsaStats Portfolio__ is a static front-end website that highlights:
 
 1. My skills as a developer
@@ -15,7 +15,8 @@ __DsaStats Portfolio__ is a static front-end website that highlights:
 5. Links to my professional social profiles
 Built with HTML5 and CSS3, this project is clean, minimal, and fully customizable.
 
-##__📁 Sections Breakdown__
+## __📁 Sections Breakdown__
+
 __🏠 Home__
 Just your name – short and impactful.
 
@@ -35,14 +36,14 @@ A flower photography section to showcase some visual creativity and add a person
 __🔗 Social Links__
 Includes icons for YouTube, LinkedIn, GitHub, Twitter (X), and Instagram.
 
-##__🛠 Tech Stack__
+## __🛠 Tech Stack__
 __Category__	        __Technologies__
 Front-End	            HTML, CSS
 Tools	                GitHub
 Design	              Custom CSS styling
 Deployment	          Vercel
 
-__🙌 Acknowledgement__
+## __🙌 Acknowledgement__
 This project was developed as part of my internship with DsaStats, allowing me to demonstrate both technical and creative abilities.
 
-###__❤️ Made with love by me__
+### __❤️ Made with love by me__
